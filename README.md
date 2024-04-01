@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/vinhtien.huynh.77" target="blank"><img align="center" src="https://gifdb.com/images/high/facebook-app-logo-sticker-sgb3lvzpwvlsvpl9.gif" alt="https://www.facebook.com/vinhtien.huynh.77" height="85" width="85" /></a>
-  <a href="https://zalo.me/0931103224" target="blank"><img align="center" src="https://4ctech.vn/wp-content/uploads/2022/09/zalo.gif" alt="https://www.facebook.com/vinhtien.huynh.77" height="80" width="80" /></a>
+<a href="https://www.facebook.com/vinhtien.huynh.77/" target="blank"><img align="center" src="https://gifdb.com/images/high/facebook-app-logo-sticker-sgb3lvzpwvlsvpl9.gif" alt="" height="85" width="85" /></a>
+  <a href="https://zalo.me/0931103224" target="blank"><img align="center" src="https://4ctech.vn/wp-content/uploads/2022/09/zalo.gif" alt="https://www.facebook.com/vinhtien.huynh.77" height="80" width="75" /></a>
 </p>
 
 ![image](https://github.com/hvtienprotv84/hvtienprotv84/assets/153743337/f2a326ac-b0fd-4403-8af0-902c10fcf264)
