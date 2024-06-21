@@ -36,7 +36,8 @@
 <img src="https://miro.medium.com/v2/resize:fit:896/1*1ISnBKKdJMAb7kilkNqvbw.gif" alt="react" width="80" height="80" />
 <img src="https://www.styled-components.com/atom.png" alt="react" width="80" height="80" /> 
 <img src="https://static-00.iconduck.com/assets.00/material-ui-icon-2048x1626-on580ia9.png" alt="react" width="80" height="70" /> 
-<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="react" width="80" height="80" /></p>
+<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="react" width="80" height="80" />
+<img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" alt="react" width="80" height="80" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
