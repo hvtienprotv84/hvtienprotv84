@@ -41,6 +41,8 @@
 <img src="https://www.opc-router.de/wp-content/uploads/2023/12/icon_json-datei_format_1200-1-1024x410.png" alt="react" width="80" height="60" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="react" width="80" height="80" />
 <img src="https://bischrob.github.io/images/githubpages/githubpages.jpeg" alt="react" width="80" height="80" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" alt="react" width="80" height="80" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="react" width="100" height="80" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
