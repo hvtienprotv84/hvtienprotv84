@@ -43,6 +43,8 @@
 <img src="https://bischrob.github.io/images/githubpages/githubpages.jpeg" alt="react" width="80" height="80" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" alt="react" width="80" height="80" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="react" width="100" height="80" />
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="react" width="80" height="80" />
+<img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="react" width="120" height="80" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
