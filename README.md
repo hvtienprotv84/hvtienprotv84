@@ -46,6 +46,8 @@
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="react" width="80" height="80" />
 <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="react" width="80" height="80" />
 <img src="https://static-00.iconduck.com/assets.00/npm-icon-2048x2048-3xqnd60o.png" alt="react" width="80" height="80" />
+<img src="https://cdn3d.iconscout.com/3d/premium/thumb/python-6815592-5602757.png?f=webp" alt="react" width="80" height="80" />
+<img src="https://mongodb.gallerycdn.vsassets.io/extensions/mongodb/mongodb-vscode/1.6.0/1713873233895/Microsoft.VisualStudio.Services.Icons.Default" alt="react" width="80" height="80" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
