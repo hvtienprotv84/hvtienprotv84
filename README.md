@@ -5,20 +5,22 @@
 <div align="center">
   
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hvtienprotv84?cardType=level&theme=github-dark&preferLogin=false&Border=FFFFFF&Ring=DD2727)](https://git.io/awesome-stats-card)
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hvtienprotv84&show_icons=true&count_private=true&theme=gruvbox" />
 </div>
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvtienprotv84&layout=compact&count_private=true&theme=gruvbox" />
+</div>
+
+<!--
+![](https://github-readme-stats.vercel.app/api?username=hvtienprotv84&show_icons=true&title_color=ff0000&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
+-->
+
+<!--
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvtienprotv84&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 </div>
-
-<div align="center">
-</br>
-  
-[![](https://github-readme-stats.vercel.app/api?username=hvtienprotv84&show_icons=true&title_color=ff0000&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)]
-</div>
-
-
+-->
 
 <!--
 # PROJECT CÁ NHÂN
