@@ -7,10 +7,19 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hvtienprotv84?cardType=level&theme=github-dark&preferLogin=false&Border=FFFFFF&Ring=DD2727)](https://git.io/awesome-stats-card)
 </div>
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hvtienprotv84&show_icons=true&count_private=true&theme=gruvbox" />
-  &nbsp; &nbsp;
+  &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvtienprotv84&layout=compact&count_private=true&theme=gruvbox" />
+</div>
+-->
+
+<div align="center">
+  
+| Github Stats | Top Languages |
+| --- | --- |
+| &nbsp; &nbsp; ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=hvtienprotv84&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) &nbsp; &nbsp; | &nbsp; &nbsp; ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hvtienprotv84&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) &nbsp; &nbsp; | 
 </div>
 
 <!--
