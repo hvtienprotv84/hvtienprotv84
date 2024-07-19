@@ -12,6 +12,13 @@
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvtienprotv84&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 </div>
 
+<div align="center">
+</br>
+  
+[![](https://github-readme-stats.vercel.app/api?username=hvtienprotv84&show_icons=true&title_color=ff0000&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)]
+</div>
+
+
 
 <!--
 # PROJECT CÁ NHÂN
