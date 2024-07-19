@@ -5,7 +5,7 @@
 <div align="center">
   
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hvtienprotv84?cardType=level&theme=github-dark&preferLogin=false&Border=FFFFFF&Ring=DD2727)](https://git.io/awesome-stats-card)
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hvtienprotv84&show_icons=true&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api?username=hvtienprotv84&show_icons=true&count_private=true&theme=gruvbox" />
 </div>
 
 <div align="center">
