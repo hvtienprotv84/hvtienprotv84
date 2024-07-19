@@ -19,7 +19,7 @@
   
 | Github Stats | Top Languages |
 | --- | --- |
-| &nbsp; &nbsp; ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=hvtienprotv84&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) &nbsp; | &nbsp; &nbsp; &nbsp; ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hvtienprotv84&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) &nbsp; | 
+| &nbsp; &nbsp; ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=hvtienprotv84&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) &nbsp; &nbsp; | &nbsp; &nbsp; ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hvtienprotv84&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) &nbsp; &nbsp; | 
 </div>
 
 <!--
