@@ -20,7 +20,7 @@
 </div>
 <br>
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=hvtienprotv84&theme=react-dark)]
+![](https://github-readme-activity-graph.vercel.app/graph?username=hvtienprotv84&theme=react-dark)
 <br />
 <!--
 <div align="center">
