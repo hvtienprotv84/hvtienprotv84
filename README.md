@@ -20,6 +20,8 @@
 </div>
 <br>
 
+[![](https://github-readme-activity-graph.vercel.app/graph?username=hvtienprotv84&theme=react-dark)]
+<br />
 <!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hvtienprotv84&show_icons=true&count_private=true&theme=gruvbox" />
