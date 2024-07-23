@@ -97,6 +97,9 @@
 <img src="https://cdn3d.iconscout.com/3d/premium/thumb/python-6815592-5602757.png?f=webp" alt="react" width="80" height="80" />
 <img src="https://mongodb.gallerycdn.vsassets.io/extensions/mongodb/mongodb-vscode/1.6.0/1713873233895/Microsoft.VisualStudio.Services.Icons.Default" alt="react" width="80" height="80" />
 <img src="https://miro.medium.com/v2/resize:fit:1200/0*-hi_YN6201aadrIe.png" alt="react" width="150" height="100" />
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="react" width="80" height="80" />
+<img src="https://media.licdn.com/dms/image/D4E16AQH9QEcrhbmzXg/profile-displaybackgroundimage-shrink_200_800/0/1711762502964?e=2147483647&v=beta&t=i0bpXkvskBRFMe4bSndAJ_4H3jN9hzzywgm-FTRbiJE" alt="react" width="220" height="80" />
+
 </p>
 
 <h3 align="left">Connect with me:</h3>
