@@ -101,7 +101,10 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQH9QEcrhbmzXg/profile-displaybackgroundimage-shrink_200_800/0/1711762502964?e=2147483647&v=beta&t=i0bpXkvskBRFMe4bSndAJ_4H3jN9hzzywgm-FTRbiJE" alt="react" width="250" height="80" />
 </p> -->
 
-<h3 align="left">Languages and Tools DEMO DEMO DEMO:</h3>
+<!--
+<h3 align="left">Languages and Tools:</h3> -->
+
+## **Languages and Tools:**
 <p align="left"> 
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,jquery,vue,vuetify,nuxtjs,ts,angular,tailwind,bootstrap,sass,styledcomponents,materialui,java,spring,cs,dotnet,php,laravel,py,flask,django,sqlite,mysql,mongodb,firebase,androidstudio,nodejs,express,git,github,gitlab,vercel,docker,visualstudio,vscode,idea,vite,npm,yarn,ps,figma,)](https://skillicons.dev)
@@ -113,8 +116,10 @@
   <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" alt="react" width="48" height="48" />
 
 </div>
+<!--
+<h3 align="left">Connect with me:</h3> -->
 
-<h3 align="left">Connect with me:</h3>
+## **Liên Hệ Với Tôi**
 <p align="left">
 <a href="https://www.facebook.com/vinhtien.huynh.77/" target="blank"><img align="center" src="https://gifdb.com/images/high/facebook-app-logo-sticker-sgb3lvzpwvlsvpl9.gif" alt="" height="85" width="85" /></a>
   <a href="https://zalo.me/0931103224" target="blank"><img align="center" src="https://4ctech.vn/wp-content/uploads/2022/09/zalo.gif" alt="https://www.facebook.com/vinhtien.huynh.77" height="80" width="75" /></a>
