@@ -99,11 +99,12 @@
 <img src="https://miro.medium.com/v2/resize:fit:1200/0*-hi_YN6201aadrIe.png" alt="react" width="150" height="100" />
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="react" width="70" height="70" />
 <img src="https://media.licdn.com/dms/image/D4E16AQH9QEcrhbmzXg/profile-displaybackgroundimage-shrink_200_800/0/1711762502964?e=2147483647&v=beta&t=i0bpXkvskBRFMe4bSndAJ_4H3jN9hzzywgm-FTRbiJE" alt="react" width="250" height="80" />
+</p>
 
 <h3 align="left">Languages and Tools DEMO DEMO DEMO:</h3>
 <p align="left"> 
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,jquery,vue,vuetify,nuxtjs,ts,angular,tailwind,bootstrap,sass,styledcomponents,materialui,java,spring,cs,dotnet,php,laravel,py,flask,django,mysql,mongodb,firebase,androidstudio,nodejs,express,git,github,gitlab,vercel,docker,visualstudio,vscode,idea,vite,npm,yarn,ps,figma,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,jquery,vue,vuetify,nuxtjs,ts,angular,tailwind,bootstrap,sass,styledcomponents,materialui,java,spring,cs,dotnet,php,laravel,py,flask,django,sqlite,mysql,mongodb,firebase,androidstudio,nodejs,express,git,github,gitlab,vercel,docker,visualstudio,vscode,idea,vite,npm,yarn,ps,figma,)](https://skillicons.dev)
 </p>
 <div align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" alt="react" width="48" height="48" />
