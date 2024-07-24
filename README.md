@@ -100,7 +100,18 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="react" width="70" height="70" />
 <img src="https://media.licdn.com/dms/image/D4E16AQH9QEcrhbmzXg/profile-displaybackgroundimage-shrink_200_800/0/1711762502964?e=2147483647&v=beta&t=i0bpXkvskBRFMe4bSndAJ_4H3jN9hzzywgm-FTRbiJE" alt="react" width="250" height="80" />
 
+<h3 align="left">Languages and Tools DEMO DEMO DEMO:</h3>
+<p align="left"> 
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,jquery,vue,vuetify,nuxtjs,ts,angular,tailwind,bootstrap,sass,styledcomponents,materialui,java,spring,cs,dotnet,php,laravel,py,flask,django,mysql,mongodb,firebase,androidstudio,nodejs,express,git,github,gitlab,vercel,docker,visualstudio,vscode,idea,vite,npm,yarn,ps,figma,)](https://skillicons.dev)
 </p>
+<div align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" alt="react" width="48" height="48" />
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-json-file-1-504451.png?f=webp" alt="react" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png" alt="react" width="48" height="48" />
+  <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" alt="react" width="48" height="48" />
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
