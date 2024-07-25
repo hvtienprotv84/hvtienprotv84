@@ -107,7 +107,7 @@
 ## **Languages and Tools:**
 <p align="left"> 
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,jquery,vue,vuetify,nuxtjs,ts,angular,tailwind,bootstrap,sass,styledcomponents,materialui,java,spring,cs,dotnet,php,laravel,py,flask,django,sqlite,mysql,mongodb,firebase,androidstudio,nodejs,express,git,github,gitlab,vercel,docker,visualstudio,vscode,idea,vite,npm,yarn,ps,figma,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,jquery,vue,vuetify,nuxtjs,ts,angular,tailwind,bootstrap,sass,styledcomponents,materialui,java,spring,cs,dotnet,php,laravel,py,flask,django,sqlite,mysql,mongodb,firebase,androidstudio,nodejs,express,git,github,gitlab,vercel,docker,visualstudio,vscode,idea,vite,npm,yarn,ps,figma,svelte)](https://skillicons.dev)
 </p>
 <div align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" alt="react" width="48" height="48" />
