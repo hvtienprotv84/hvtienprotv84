@@ -113,7 +113,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" alt="react" width="48" height="48" />
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-json-file-1-504451.png?f=webp" alt="react" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png" alt="react" width="48" height="48" />
-  <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" alt="react" width="48" height="48" />
+<img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" alt="react" width="48" height="48" />
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721291.png" alt="react" width="48" height="48" />
 
 </div>
 <!--
