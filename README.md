@@ -124,8 +124,18 @@
 
 ## **Liên Hệ Với Tôi**
 <p align="left">
-<a href="https://www.facebook.com/vinhtien.huynh.77/" target="blank"><img align="center" src="https://gifdb.com/images/high/facebook-app-logo-sticker-sgb3lvzpwvlsvpl9.gif" alt="" height="85" width="85" /></a>
-  <a href="https://zalo.me/0931103224" target="blank"><img align="center" src="https://4ctech.vn/wp-content/uploads/2022/09/zalo.gif" alt="https://www.facebook.com/vinhtien.huynh.77" height="80" width="75" /></a>
+<!-- <a href="https://www.facebook.com/vinhtien.huynh.77/" target="blank">
+   <img align="center" src="https://gifdb.com/images/high/facebook-app-logo-sticker-sgb3lvzpwvlsvpl9.gif" alt="" height="85" width="85" />
+</a>
+<a href="https://zalo.me/0931103224" target="blank">
+   <img align="center" src="https://4ctech.vn/wp-content/uploads/2022/09/zalo.gif" alt="https://www.facebook.com/vinhtien.huynh.77" height="80" width="75" />
+</a> -->
+<a href="https://www.facebook.com/vinhtien.huynh.77/" target="blank">
+   <img align="center" src="https://gifdb.com/images/high/facebook-app-logo-sticker-sgb3lvzpwvlsvpl9.gif" alt="" height="55" width="55" />
+</a>
+<a href="https://zalo.me/0931103224" target="blank">
+   <img align="center" src="https://4ctech.vn/wp-content/uploads/2022/09/zalo.gif" alt="https://www.facebook.com/vinhtien.huynh.77" height="52" width="50" />
+</a>
 </p>
 
 <!--![image](https://github.com/hvtienprotv84/hvtienprotv84/assets/153743337/f2a326ac-b0fd-4403-8af0-902c10fcf264)
