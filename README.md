@@ -116,7 +116,9 @@
 <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" alt="react" width="48" height="48" />
 <img src="https://cdn-icons-png.flaticon.com/512/2721/2721291.png" alt="react" width="48" height="48" />
 <img src="https://nguyenthedong.com/wp-content/uploads/2022/11/scrum-agile.png" alt="react" width="48" height="48" />
-<img src="https://i.pinimg.com/736x/8e/6e/49/8e6e4932d7a955786e30452c1c6d7f9e.jpg" alt="react" width="64" height="48" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_CDDGtcFfsT_0BMEGwYDM7e7qYztkbCPcDg&s" alt="react" width="48" height="48" />
+<img src="https://media.licdn.com/dms/image/D5622AQETmmYROGJqOA/feedshare-shrink_800/0/1709888092712?e=2147483647&v=beta&t=DfU11oIB15PJTmKMsn9yUyXhmSP0NkQLoHZVcXQzA9o" alt="react" width="48" height="48" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL-JWL1MHN8qo4g5WlxdtAIY7H_wL43ErJDlbeQyO-AXk6q_ff" alt="react" width="48" height="48" />
 
 </div>
 <!--
