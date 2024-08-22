@@ -105,10 +105,13 @@
 <h3 align="left">Languages and Tools:</h3> -->
 
 ## **Languages and Tools:**
-<p align="left"> 
-  
+<div align="center"> 
+    
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,vue,vuetify,nuxtjs,angular,tailwind,jquery,bootstrap,sass,styledcomponents,materialui,java,spring,cs,dotnet,php,laravel,py,flask,django,sqlite,mysql,mongodb,firebase,androidstudio,nodejs,express,selenium,git,github,gitlab,bitbucket,md,vercel,docker,visualstudio,vscode,sublime,idea,vite,webpack,npm,yarn,ps,figma,alpinejs,electron,svelte,emotion,gatsby,astro,prisma)](https://skillicons.dev)
-</p>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative&perline=3)
+
+</div>
+
 <div align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" alt="react" width="48" height="48" />
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-json-file-1-504451.png?f=webp" alt="react" width="48" height="48" />
