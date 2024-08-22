@@ -112,7 +112,7 @@
 
 <div align="left"> 
     
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,gsap,recoil,zustand,&perline=3)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,gsap,recoil,zustand&perline=4)
 </div>
 
 <div align="left">
