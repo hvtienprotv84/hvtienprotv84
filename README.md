@@ -13,11 +13,11 @@
         &nbsp; &nbsp; &nbsp; <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=hvtienprotv84&langs_count=8&layout=compact&theme=algolia&border_radius=20" />
 </div>
 <br>
-<div align="center">
+<!-- <div align="center">
     <a href="https://github.com/LqhResearch">
         <img align="center" src="https://streak-stats.demolab.com/?user=hvtienprotv84&theme=algolia&border_radius=20&date_format=j/n/Y" />
     </a>
-</div>
+</div> -->
 <br>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=hvtienprotv84&theme=react-dark)
