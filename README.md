@@ -113,7 +113,7 @@
 ## **Languages and Tools:**
 <div align="left"> 
     
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,vue,vuetify,nuxtjs,angular,tailwind,jquery,bootstrap,sass,styledcomponents,materialui,java,spring,cs,dotnet,php,laravel,py,flask,django,sqlite,mysql,mongodb,firebase,androidstudio,nodejs,express,selenium,git,github,gitlab,bitbucket,md,vercel,docker,visualstudio,vscode,sublime,idea,vite,webpack,npm,yarn,ps,figma,alpinejs,electron,svelte,emotion,gatsby,astro,prisma,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,vue,vuetify,nuxtjs,angular,tailwind,jquery,bootstrap,sass,styledcomponents,materialui,java,spring,cs,dotnet,php,laravel,py,flask,django,sqlite,mysql,mongodb,firebase,androidstudio,nodejs,express,postman,selenium,git,github,gitlab,bitbucket,md,vercel,docker,visualstudio,vscode,sublime,idea,vite,webpack,npm,yarn,ps,figma,alpinejs,electron,svelte,emotion,gatsby,astro,prisma,wordpress)](https://skillicons.dev)
 </div>
 
 <div align="left"> 
