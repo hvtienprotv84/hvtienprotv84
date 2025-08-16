@@ -2,7 +2,7 @@
 <!-- <h1 align="center">Xin Chào Mọi Người Mình Là <span style="color:red;">Huỳnh Vĩnh Tiến</span></h1>      
  -->  
 <div align="center">                                                  
-                                                                                         
+                                                                                          
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=900&size=26&duration=3000&pause=1000&background=FF000000&width=435&lines=Hi!+M%C3%ACnh+l%C3%A0+Hu%E1%BB%B3nh+V%C4%A9nh+Ti%E1%BA%BFn+%F0%9F%98%8E)](https://git.io/typing-svg)
 </div>    
                                                                                    
